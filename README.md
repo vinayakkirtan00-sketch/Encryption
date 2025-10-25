@@ -1,17 +1,3 @@
-<!DOCTYPE html><html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Python File Encryption & Recovery Guide</title>
-    <style>
-        body { font-family: 'Segoe UI', sans-serif; background: #0d1117; color: #c9d1d9; line-height: 1.6; padding: 20px; }
-        h1, h2, h3 { color: #58a6ff; }
-        code, pre { background: #161b22; padding: 10px; border-radius: 8px; display: block; overflow-x: auto; color: #f0f6fc; }
-        .cmd { color: #a5d6ff; }
-        .section { margin-bottom: 30px; }
-    </style>
-</head>
-<body>
     <h1>Python Script Encryption & Recovery (Termux / Linux)</h1><div class="section">
     <h2>1. Check which file got corrupted</h2>
     <p>Run these commands to check if the file is text or binary:</p>
