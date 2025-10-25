@@ -1,3 +1,4 @@
+
     <h1>Python Script Encryption & Recovery (Termux / Linux)</h1><div class="section">
     <h2>1. Check which file got corrupted</h2>
     <p>Run these commands to check if the file is text or binary:</p>
